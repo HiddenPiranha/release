@@ -2,9 +2,10 @@
 *.log
 
 # config files except i18n bundles
+*.conf
 *.config
 *.properties
 !bundle_*.properties
 
-# idea
+# intellij folder
 **/.idea/
