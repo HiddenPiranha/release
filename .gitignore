@@ -1,9 +1,10 @@
 # Log file
 *.log
 
-# config files
+# config files except i18n bundles
 *.config
 *.properties
+!bundle_*.properties
 
 # idea
 **/.idea/
